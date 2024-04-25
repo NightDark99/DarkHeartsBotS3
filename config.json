@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "DarkHeartsS3.aternos.me",
+		"port": "39030",
+		"username": "DarkHearts"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
